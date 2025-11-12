@@ -31,13 +31,13 @@ The system samples analog data from sensors via ADC, processes it using multitas
 ## 📸 Output Preview
 
 ### LCD Display Output
-![LCD Output](https://github.com/prathameshsalunkhe/Data-Acquisition-System-RTOS/blob/main/image/protuse.png)
+![LCD Output](https://github.com/prathameshsalunkhe/Data-Acquisition-System-RTOS/blob/main/image/data_acq.jpg)
 
 ### Proteus Simulation
-![Proteus Simulation]("C:\Users\Prathmesh\OneDrive\Pictures\Screenshots\protuse.png")
+![Proteus Simulation](https://github.com/prathameshsalunkhe/Data-Acquisition-System-RTOS/blob/main/image/protuse.png)
 
 
 ## 📬 Author
 **Prathamesh Salunkhe**  
 Embedded Engineer | Real-Time Systems Enthusiast  
-[LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/prathamesh-embedded/)) | [Email](mailto:pssalunkhe5@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/prathamesh-embedded/) | [Email](mailto:pssalunkhe5@gmail.com)
