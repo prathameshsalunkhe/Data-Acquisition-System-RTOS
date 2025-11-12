@@ -31,7 +31,7 @@ The system samples analog data from sensors via ADC, processes it using multitas
 ## 📸 Output Preview
 
 ### LCD Display Output
-![LCD Output]("C:\Users\Prathmesh\Downloads\data_acq.jpg")
+![LCD Output]("[C:\Users\Prathmesh\Downloads\data_acq.jpg](https://github.com/prathameshsalunkhe/Data-Acquisition-System-RTOS/blob/main/image/data_acq.jpg)")
 
 ### Proteus Simulation
 ![Proteus Simulation]("C:\Users\Prathmesh\OneDrive\Pictures\Screenshots\protuse.png")
